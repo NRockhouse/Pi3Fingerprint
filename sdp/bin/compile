@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -I/usr/include -lfprint -o "$1" "$1.c"
